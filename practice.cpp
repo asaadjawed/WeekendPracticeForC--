@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    //Challenge 07: 
+    //Challenge 07: This challenge is designed for learning about vectors in C++.
 
     vector<int> vector1 {};
     vector<int> vector2 {};
@@ -44,7 +44,7 @@ int main() {
 
    printf("Element at index 0 of vector1 after modification: %d\n", vector1.at(0));
 
-     
+    
 
     return 0;
 }
